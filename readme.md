@@ -77,7 +77,7 @@ After generating a message, users can choose:
 | `sample_input.csv`         | Example input file containing columns: name, job_role, company, intent, post_text. |
 | `requirements.txt`         | List of Python dependencies required to run the project.          |
 | `README.md`                | Documentation and usage guide for setup and execution.            |
-|----------------------------|--------------------------------------------------------------------|
+
 
 ## ⚙️ Tech Stack
 
