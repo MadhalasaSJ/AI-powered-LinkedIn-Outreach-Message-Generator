@@ -79,6 +79,14 @@ After generating a message, users can choose:
 | `README.md`                | Documentation and usage guide for setup and execution.            |
 
 
+## 🖼️ App Previews
+
+| Manual Entry Mode | Feedback Interaction | Bulk Upload Mode |
+|:-----------------:|:--------------------:|:----------------:|
+| ![Manual Entry](assets/preview1.png) | ![Feedback Interaction](assets/preview2.png) | ![Bulk Upload](assets/preview3.png) |
+
+> These screenshots showcase the app’s key features, **manual personalization**, **user feedback system**, and **bulk message generation** with real-time progress tracking.
+
 ## ⚙️ Tech Stack
 
 - **Language:** Python 3.10+
