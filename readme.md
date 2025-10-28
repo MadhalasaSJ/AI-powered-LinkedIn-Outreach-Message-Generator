@@ -4,7 +4,7 @@
 
 This project is an AI-powered LinkedIn Outreach Message Generator that creates personalized, human-like outreach messages for professionals at scale.
 
-It uses Groq’s AI API with a Streamlit web app to help recruiters, marketers, founders, and networkers send natural, context-aware LinkedIn messages that sound authentic — not robotic.
+It uses Groq’s AI API with a Streamlit web app to help recruiters, marketers, founders, and networkers send natural, context-aware LinkedIn messages that sound authentic, not robotic.
 
 ## ⚙️ Approach Summary
 
@@ -25,7 +25,7 @@ It also includes real-time user feedback and infinite regeneration for improved 
 
 ## 💡 Key Features
 
-### 🧩 Input Options
+## 🧩 Input Options
 
 - **Manual Entry**: Add recipient details directly through the app interface.
 
@@ -51,7 +51,7 @@ After generating a message, users can choose:
 
 ## ✅ Unlimited regeneration supported
 
-- ⚡ Scalability & Efficiency
+- Scalability & Efficiency
 
 - Multi-threaded architecture using ThreadPoolExecutor
 
@@ -59,7 +59,7 @@ After generating a message, users can choose:
 
 - Handles large datasets efficiently for enterprise-level outreach
 
-- 🖥️ Streamlit Interface
+## Streamlit Interface
 
 - Clean, intuitive design
 
@@ -81,16 +81,17 @@ After generating a message, users can choose:
 
 ## ⚙️ Tech Stack
 
-- Language: Python 3.10+
+- **Language:** Python 3.10+
 
-- Framework: Streamlit
+- **Framework:** Streamlit
 
-- API: Groq (OpenAI-compatible API)
+- **API:** Groq (OpenAI-compatible API)
 
-#### Libraries:
+## Libraries:
 - requests, pandas, json, dotenv, concurrent.futures, random, time
 
-### 🚀 How to Run
+---
+## 🚀 How to Run
 
 - Install dependencies
    ```bash
