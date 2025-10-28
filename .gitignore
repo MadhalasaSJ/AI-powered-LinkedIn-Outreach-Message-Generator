@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.log
+
+# Virtual environment
+.venv/
+venv/
+
+env/
+.penv/
+*.env
+.env.local
+.env.*.local
+
+# API keys or secrets
+.env
+*.key
+*.secret
+*.token
+
+# Streamlit cache & logs
+.streamlit/
+.streamlit/secrets.toml
+.streamlit/config.toml
+.streamlit/logs/
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+*.ipynb
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files
+*.csv
+*.json
+*.txt
+*.xlsx
+*.xls
+
+# Output files
+output/
+*.out
+*.tmp
+*.bak
+
+# Compiled / build
+build/
+dist/
+*.egg-info/
+*.spec
+
+# Testing / coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Images / screenshots
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
